@@ -1,0 +1,17 @@
+form {
+    width: 255px;
+    height: 330px;
+}
+
+form button {
+        padding: 12px 118px;
+        font-size: 16px;
+}
+
+form label{
+    margin-top: 21px;
+}
+
+.title {
+    margin-bottom: 41px;
+}
